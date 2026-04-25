@@ -145,7 +145,7 @@ class CrmController extends BaseController
         $moduleIcon = $icon;
         $baseUrl = '/crm';
         $kanbanTitleField = 'name';
-        $kanbanStatusField = 'status';
+        $kanbanStatusField = 'stage';
         $kanbanMetaFields = ['created_at'];
         $createUrl = '/crm/create';
         $smartButtons = [];
