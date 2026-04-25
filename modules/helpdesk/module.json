@@ -1,0 +1,10 @@
+{
+    "name": "helpdesk",
+    "display_name": "Helpdesk",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Helpdesk and ticket management - Support tickets, assignments, and resolution tracking",
+    "icon": "fas fa-headset",
+    "color": "#E67E22",
+    "dependencies": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "projects",
+    "display_name": "Projects",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Project management - Projects, tasks, milestones, and timesheets",
+    "icon": "fas fa-project-diagram",
+    "color": "#9B59B6",
+    "dependencies": []
+}

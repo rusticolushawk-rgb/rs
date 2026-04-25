@@ -1,0 +1,10 @@
+{
+    "name": "iot",
+    "display_name": "IoT",
+    "version": "1.0",
+    "category": "Technology & Services",
+    "description": "IoT device management - Connected devices, sensors, and readings monitoring",
+    "icon": "fas fa-microchip",
+    "color": "#34495E",
+    "dependencies": []
+}

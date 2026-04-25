@@ -1,0 +1,10 @@
+{
+    "name": "maintenance",
+    "display_name": "Maintenance",
+    "version": "1.0",
+    "category": "Construction & Manufacturing",
+    "description": "Maintenance management - Equipment tracking, maintenance requests, and scheduling",
+    "icon": "fas fa-wrench",
+    "color": "#95A5A6",
+    "dependencies": []
+}

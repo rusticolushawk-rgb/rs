@@ -1,0 +1,10 @@
+{
+    "name": "inventory",
+    "display_name": "Inventory",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Inventory and warehouse management - Stock tracking, warehouse operations, and stock moves",
+    "icon": "fas fa-boxes",
+    "color": "#F39C12",
+    "dependencies": []
+}
