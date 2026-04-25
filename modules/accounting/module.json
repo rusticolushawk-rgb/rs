@@ -1,0 +1,12 @@
+{
+    "name": "accounting",
+    "display_name": "Accounting",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Financial management - Journal entries, chart of accounts, invoicing, and financial reports",
+    "icon": "fas fa-calculator",
+    "color": "#2C3E50",
+    "dependencies": [
+        "sales"
+    ]
+}

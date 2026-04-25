@@ -1,0 +1,10 @@
+{
+    "name": "prepress",
+    "display_name": "Prepress Workflow",
+    "version": "1.0",
+    "category": "Technology & Services",
+    "description": "Prepress workflow management - Job management, file uploads, proofing system with approval/rejection",
+    "icon": "fas fa-print",
+    "color": "#D35400",
+    "dependencies": []
+}

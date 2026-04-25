@@ -1,0 +1,13 @@
+{
+    "name": "pos",
+    "display_name": "Point of Sale",
+    "version": "1.0",
+    "category": "Retail & Trade",
+    "description": "Point of Sale system - Cash register, receipts, and session management",
+    "icon": "fas fa-cash-register",
+    "color": "#1ABC9C",
+    "dependencies": [
+        "sales",
+        "inventory"
+    ]
+}

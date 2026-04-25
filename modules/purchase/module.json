@@ -1,0 +1,10 @@
+{
+    "name": "purchase",
+    "display_name": "Purchase",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Purchase management - Purchase orders, vendor management, and procurement",
+    "icon": "fas fa-shopping-cart",
+    "color": "#E6007E",
+    "dependencies": []
+}

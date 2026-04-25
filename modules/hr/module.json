@@ -1,0 +1,10 @@
+{
+    "name": "hr",
+    "display_name": "Human Resources",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Human Resources management - Employees, departments, attendance, leave, and payroll",
+    "icon": "fas fa-user-tie",
+    "color": "#3498DB",
+    "dependencies": []
+}

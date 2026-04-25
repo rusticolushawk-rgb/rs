@@ -1,0 +1,10 @@
+{
+    "name": "fleet",
+    "display_name": "Fleet",
+    "version": "1.0",
+    "category": "Real Estate & Logistics",
+    "description": "Fleet management - Vehicle tracking, maintenance logs, and driver management",
+    "icon": "fas fa-truck",
+    "color": "#2980B9",
+    "dependencies": []
+}

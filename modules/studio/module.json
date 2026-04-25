@@ -1,0 +1,10 @@
+{
+    "name": "studio",
+    "display_name": "Studio",
+    "version": "1.0",
+    "category": "Technology & Services",
+    "description": "Application customization studio - Custom fields, form builder, and view editor",
+    "icon": "fas fa-paint-brush",
+    "color": "#8E44AD",
+    "dependencies": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ecommerce",
+    "display_name": "eCommerce",
+    "version": "1.0",
+    "category": "Retail & Trade",
+    "description": "eCommerce management - Online store, product catalog, orders, and shipping",
+    "icon": "fas fa-shopping-bag",
+    "color": "#E74C3C",
+    "dependencies": [
+        "sales",
+        "inventory"
+    ]
+}

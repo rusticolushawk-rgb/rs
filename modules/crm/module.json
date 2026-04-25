@@ -1,0 +1,10 @@
+{
+    "name": "crm",
+    "display_name": "CRM",
+    "version": "1.0",
+    "category": "Business Operations",
+    "description": "Customer Relationship Management - Manage leads, opportunities, contacts and sales pipeline",
+    "icon": "fas fa-handshake",
+    "color": "#714B67",
+    "dependencies": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "quality",
+    "display_name": "Quality",
+    "version": "1.0",
+    "category": "Construction & Manufacturing",
+    "description": "Quality management - Quality checks, inspections, alerts and compliance",
+    "icon": "fas fa-clipboard-check",
+    "color": "#27AE60",
+    "dependencies": []
+}
